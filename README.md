@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Aeonsprint Solutions**
 
-- 🌱 I’m currently learning **Laravel and Vue**
-
 - 📫 How to reach me **markrodcadayong17@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iOaKS-VXi9foNyjvQoGmSOGMvWjaGwY6/view?usp=sharing](https://drive.google.com/file/d/1iOaKS-VXi9foNyjvQoGmSOGMvWjaGwY6/view?usp=sharing)
